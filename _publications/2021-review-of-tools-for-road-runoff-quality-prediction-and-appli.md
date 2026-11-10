@@ -1,6 +1,7 @@
 ---
 title: 'Review of tools for road runoff quality prediction and application to European roads'
 collection: publications
+pubtype: journal
 permalink: /publication/2021-review-of-tools-for-road-runoff-quality-prediction-and-appli
 date: 2021-11-01
 venue: 'Water Science & Technology'

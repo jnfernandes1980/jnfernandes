@@ -14,3 +14,5 @@ Hydrokinematics: flow and flow lines<br>
 Hydrodynamics: laws of conservation of mass, energy and momentum<br>
 Flow resistance laws: laminar and turbulent flows<br>
 Steady-state pressure flows
+
+Also taught as Hydraulics (undergraduate) from 2012 to 2014.

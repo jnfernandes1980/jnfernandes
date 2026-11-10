@@ -27,4 +27,6 @@ From 2012 to 2014 I was an invited Assistant Professor at NOVA University Lisbon
 
 My career has produced more than 120 scientific and technical publications, including journal papers, book chapters, conference communications and technical reports.
 
-Find out more on the [Publications](publications/), [Projects](projects/) and [CV](cv/) pages, or on my [ORCID](https://orcid.org/0000-0003-0337-7084) and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=35495930100) profiles.
+In 2022 I received LNEC's Manuel Rocha Research Award.
+
+Find out more on the [Publications](publications/), [Projects](projects/) and [CV](cv/) pages, or on my [ORCID](https://orcid.org/0000-0003-0337-7084), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=35495930100) and [CIÊNCIA VITAE](https://www.cienciavitae.pt/portal/8B1F-4494-6198) profiles.
