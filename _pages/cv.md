@@ -11,58 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Civil Engineering, IST, Lisbon University, 2013
-* Degree in Civil Engineering, IST, Lisbon University, 2003
+* Ph.D. in Civil Engineering, IST, University of Lisbon, 2013
+* Degree in Civil Engineering, IST, University of Lisbon, 2003
 
 Work experience
 ======
-* From 2019: Assistant Researcher
-  * National Laboratory for Civil Engineering
-  * Hydraulics and Environmental Department
-  * Water Resources and Hydraulic Structures Division
+* Since 2019: Assistant Researcher, Water Resources and Hydraulic Structures Division, Hydraulics and Environment Department, National Laboratory for Civil Engineering (LNEC)
+* Since 2019: Invited Assistant Professor, Civil Engineering Department, NOVA School of Science and Technology (NOVA FCT)
+* 2017–2018: Postdoctoral researcher, Portuguese Foundation for Science and Technology (FCT) grant
+* 2015–2016: Researcher, Laboratory of Hydraulics, Hydrology and Glaciology (VAW), ETH Zurich, and Swiss Competence Center for Energy Research (SCCER-SoE)
+* 2012–2014: Postdoctoral Researcher, Hydraulics and Environment Department, LNEC
+* 2012–2014: Invited Assistant Professor, Civil Engineering Department, NOVA FCT
+* 2008–2012: PhD research fellow, Hydraulics and Environment Department, LNEC, and FCT
+* 2004–2008: Research fellow, Hydraulics and Environment Department, LNEC
+* 2003–2004: Engineer, ProSistemas (now TPF Planege)
+* 2003: Trainee, Hydraulics and Environment Department, LNEC
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Since 2019 - Assistant researcher at Water resources and Hydraulic Structures Division, Hydraulics and Environmental Department, National Laboratory of Civil Engineering 
-* 2017	– 2018:	Postdoctoral Grant by Portuguese Science and Technology Foundation 
-* 2015 – 2016: Researcher at Hydraulics, Hydrology and Glaciology Department of the Swiss Federal Institute of Technology in Zurich (ETHZ) and Swiss Competence Center for Energy Research (SCCER-SoE)
-* 2012 	– 	2014: Postdoctoral Researcher at Hydraulics and Environmental Department, National Laboratory of Civil Engineering 
-* 2012–2014	Invited Assistant Professor in the Civil Engineering Department of the Science and Technology Faculty of the Universidade Nova de Lisboa
-* 2008 - 2012	PhD Research fellow at Hydraulics and Environmental Department, National Laboratory of Civil Engineering and Portuguese Science and Technology Foundation
-* 2004 - 2008 Research fellow at Hydraulics and Environmental Department, National Laboratory of Civil Engineering
-* 2003 - 2004:	Engineer at ProSistemas (currently TPF Planege)
-* 2003: Trainee at Hydraulics and Environmental Department, National Laboratory of Civil Engineering
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Hydraulic engineering: open-channel and fluvial hydraulics, physical modelling (Froude similarity), reservoir dimensioning, hydropower and sediment management
+* Hydrology: GIS-based watershed delineation, flood management
+* Remote sensing: Sentinel-1 (SAR) and Sentinel-2 (optical) processing for water-body mapping
+* AI and data science: deep-learning segmentation, LSTM forecasting of reservoir storage
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Service and entrepreneurship
 ======
-* Currently signed in to 43 different slack teams
+* Co-founder of HydroAI, Lda., a satellite-based reservoir monitoring spin-off of LNEC research
+* Proposal evaluator for European research funding programmes (including PRIMA)
