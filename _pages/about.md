@@ -7,16 +7,24 @@ redirect_from:
   - /about.html
 ---
 
+I am an Assistant Researcher at the Water Resources and Hydraulic Structures Division of the National Laboratory for Civil Engineering ([LNEC](https://www.lnec.pt)) in Lisbon, and an invited Assistant Professor at [NOVA FCT](https://www.fct.unl.pt). My work combines hydraulics, hydrology and remote sensing, with a growing focus on AI-based water monitoring.
+
+Current work
 ------
 
+* **Satellite and AI-based water monitoring:** mapping water bodies from Sentinel-1 (SAR) and Sentinel-2 (optical) imagery with deep learning, and forecasting reservoir storage with LSTM models.
+* **[HydroAI](projects/hydroai):** I co-founded HydroAI, Lda., a spin-off of my LNEC research that brings satellite-based reservoir monitoring to water managers.
+* **[VET4Hydro](projects/vet4hydro):** an Erasmus+ project coordinated by LNEC on training in hydraulic infrastructures, with partners in Mozambique, Cabo Verde and Norway.
 
-My professional experience comprises research, consulting and teaching activities. 
-After the degree in Civil Engineering in 2003, JNF worked in a private company in projects related to water management, dam safety and hydropower. 
+Background
+------
 
-In 2005, JNF joined the Water Resources and Hydraulic Structures Division of the National Laboratory for Civil Engineering ([LNEC](https://www.lnec.pt))as a research fellow working in several research and consulting projects related to flood management and hydropower production. In addition to the work at LNEC, JNF developed the PhD with a thesis in the field of fluvial hydraulics, flood management and interactions between flow and vegetation in rivers. 
+After graduating in Civil Engineering in 2003, I worked for a private company on projects in water management, dam safety and hydropower.
 
-Between 2012 and 2014, JNF joined Nova University Lisbon ([UNOVA](https://www.fct.unl.pt)) as Assistant Professor and responsible for the subjects related to Hydraulics and Urban Hydraulics. In August 2013, JNF was admitted as a Postdoctoral Fellow in the Department of Hydraulics and Environment of LNEC. In 2015 and 2016, JNF joined the Laboratory of Hydraulics, Hydrology and Glaciology of the Swiss Federal Institute of Technology Zurich (ETHZ) as postdoctoral researcher. JNF participated in research projects related to hydropower production and transport and control of sediments. In 2017, JNF returned to LNEC where he is now Assistant Researcher. Since December 2019, JNF is also invited Assistant Professor at UNOVA. From this professional career resulted a total of more than 120 scientific and technical publications, including book chapters, journal papers, as well as communications to national and international congresses and an extensive production of technical reports.
+In 2005 I joined LNEC's Water Resources and Hydraulic Structures Division as a research fellow, working on research and consulting projects in flood management and hydropower production. Alongside this work I completed a PhD on fluvial hydraulics, flood management and flow–vegetation interactions in rivers.
 
-Here you can find the [projects](https://github.com/academicpages/academicpages.github.io) I am working on
+From 2012 to 2014 I was an invited Assistant Professor at NOVA University Lisbon, responsible for Hydraulics and Urban Hydraulics, and from 2013 a postdoctoral fellow at LNEC. In 2015 and 2016 I was a postdoctoral researcher at the Laboratory of Hydraulics, Hydrology and Glaciology (VAW) of ETH Zurich, working on hydropower and sediment transport and control. I returned to LNEC in 2017 and have been an Assistant Researcher there since 2019, and again an invited Assistant Professor at NOVA since December 2019.
 
-You can also hear my podcast or check my CV
+My career has produced more than 120 scientific and technical publications, including journal papers, book chapters, conference communications and technical reports.
+
+Find out more on the [Publications](publications/), [Projects](projects/) and [CV](cv/) pages, or on my [ORCID](https://orcid.org/0000-0003-0337-7084) and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=35495930100) profiles.
