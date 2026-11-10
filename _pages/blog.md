@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "Blog"
+permalink: /blog/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% if site.posts.size == 0 %}
+No posts yet.
+{% else %}
+{% for post in site.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+{% endif %}
